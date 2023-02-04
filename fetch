@@ -1,4 +1,3 @@
-```shell
 #!/bin/bash
 
 # Define your ASCII art in a variable
@@ -45,7 +44,3 @@ function fetch {
   echo "${blue} Ｈｏｓｔｎａｍｅ： ${reset}$hostname"
   echo "${blue} Ｒｅｌｅａｓｅ： ${reset}$release"
 }
-
-# Call the function
-fetch
-```
